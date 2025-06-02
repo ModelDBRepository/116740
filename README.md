@@ -8,7 +8,7 @@ We have constructed a detailed model of a hippocampal dentate granule (DG) cell 
 
 - `fig4a.hoc` reproduces Figure 4A of the paper:
 
-![screenshot](./screenshot.jpg)
+![screenshot](./screenshot.JPG)
 
 - `schematic.ses` implements the schematic model described in the paper in Cell Builder.
 
